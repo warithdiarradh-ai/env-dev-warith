@@ -8,3 +8,6 @@
 ## 2026-11-03 – Système pour le terminal
 
 - **Décision :** …
+
+« Hébergement du dépôt : GitHub »
+(décision, autres possibilités, raison).
