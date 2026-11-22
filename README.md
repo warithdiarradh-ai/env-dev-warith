@@ -1,4 +1,4 @@
-# env-dev-warith (B1 DEV, IFRAN)
+# env-dev-kone – Mon environnement de développement (B1 DEV, IFRAN)
 
 Environnement de développement de Diarra Check – B1 DEV, IFRAN.
 
